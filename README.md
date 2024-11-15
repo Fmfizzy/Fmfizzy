@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello there, Fizzy here!👋
+
+<img src="https://github.com/Fmfizzy/Fmfizzy/blob/main/coding-anime.gif">
+
+💻 Software Engineer with experience in wordpress, JavaScript, Angular, and Spring Boot </br>
+📊 Skilled in Python, SQL, and NLP with a published <a href="https://ieeexplore.ieee.org/document/10499770"> research paper.</a></br>
+🤖 Built multiple AI/ML projects, applying machine learning algorithms to real-world scenarios</br>
+🏆 Graduated with First-Class Honors in Computer Science, exploring full-stack development and AI</br>
+📝 Enjoys building side projects and exploring new tech stacks</br>
+🎯 Open to collaborations in AI/ML, NLP, and full-stack development</br>
+
 
 <!--
 **Fmfizzy/Fmfizzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
