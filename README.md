@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Fmfizzy/Fmfizzy/blob/main/coding-anime.gif">
 
-💻 Software Engineer with experience in wordpress, JavaScript, Angular, and Spring Boot </br>
+💻 Software Engineer with experience in wordpress, JavaScript, NextJs, Angular, and Spring Boot </br>
 📊 Skilled in Python, SQL, and NLP with a published <a href="https://ieeexplore.ieee.org/document/10499770"> research paper.</a></br>
 🤖 Built multiple AI/ML projects, applying machine learning algorithms to real-world scenarios</br>
 🏆 Graduated with First-Class Honors in Computer Science, exploring full-stack development and AI</br>
